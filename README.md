@@ -32,7 +32,7 @@ BiliBili用户:我爱C_Primer_Plus(UID:108238952)
 
 由于此项目对设备硬件有一定的危害性，我们不允许您将其用于违法用途，若您将其用于违法用途，我们将撤销您使用其的一切权力。
 
-我们将按照"署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)"对您进行许可
+我们的项目将按照知识共享"署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)" 的授权方式释出，这既在法律层面有效的保证您大可不必担心转载和转写带来的版权争议，也禁止了藉此牟利的情况出现。
 
 参见
 
@@ -40,7 +40,7 @@ BiliBili用户:我爱C_Primer_Plus(UID:108238952)
 
 [English Version Of CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 或者查看"附录1"
 
-请注意，从第19-36行摘自[CC BY-NC-SA 4.0中文版本](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh),旨在让您能够方便地查看协议内容
+请注意，从第45-105行摘自[CC BY-NC-SA 4.0中文版本](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh),旨在让您能够方便地查看协议内容
 
 ===============================================
 
