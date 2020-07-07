@@ -38,7 +38,7 @@ BiliBili用户:我爱C_Primer_Plus(UID:108238952)
 
 参见
 
-[CC BY-NC-SA 4.0中文版本](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh), 或者查看"附录1"
+[CC BY-NC-SA 4.0中文版本](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh), 或者查看"[附录1](https://github.com/i-am-a-loser-using-windows-server/stack-overflow/blob/master/README.md#%E9%99%84%E5%BD%951)"
 
 [English Version Of CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 
 
